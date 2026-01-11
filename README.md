@@ -1,2 +1,14 @@
-# student-performance-analysis
-Beginner Python data analysis project to analyze student performance using Pandas and Matplotlib.
+Student Performance Analysis using Python
+
+This is a beginner-level data analysis project.
+
+Tools Used:
+- Python
+- Pandas
+- Matplotlib
+
+Features:
+- Calculates total and average marks
+- Subject-wise performance analysis
+- Identifies top-performing student
+- Data visualization using bar charts
