@@ -22,13 +22,13 @@ A beginner-level data analysis project using Python to analyze student marks and
 ---
 
 ## 📁 Project Structure
-
+```
 Student-Performance/
 │
 ├── analysis.py
 ├── data.csv
 └── README.md
-
+```
 ---
 
 ## 🚀 How to Run
